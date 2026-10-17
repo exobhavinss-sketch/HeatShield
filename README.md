@@ -19,7 +19,7 @@
 
 ## Team Details (`TF-141`)
 
-| Member Name | Student PRN | Primary Project Role & Workstream Lead |
+| Student Name | Student PRN | Primary Project Role & Workstream Lead |
 |---|---|---|
 | **Furqan Bagwan** | `SCFU425004` | Lead Frontend Engineer & UI/UX Designer (FSD-1 Track) |
 | **Aman Shaikh** | `SCFU425013` | Lead Data Analyst & Statistical Modeler (EDA & DV Track) |
