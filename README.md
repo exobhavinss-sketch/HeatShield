@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="Brand Assests/files/heatshield-logo-primary.svg" alt="HeatShield Primary Logo" width="220">
+</p>
+
+<p align="center">
+  <img src="Brand Assests/files/heatshield-github-banner.png" alt="HeatShield GitHub Banner" width="100%">
+</p>
+
 # HeatShield: Urban Heat Exposure Analysis and Cooling Intelligence Platform
 
 **Integrated Semester Project** — B.Tech Semester III  
